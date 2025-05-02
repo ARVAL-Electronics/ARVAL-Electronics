@@ -31,14 +31,23 @@ Somos uma empresa especializada em **sistemas embarcados, automação e desenvol
 ## 🧠 Tecnologias que dominamos
 
 <p align="left">
-    <code><img height="30" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/PIC-003A70?style=for-the-badge&logo=microchip&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/Nordic-003B5C?style=for-the-badge&logo=nordicsemiconductor&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></code>
     <code><img height="30" src="https://img.shields.io/badge/ESP--IDF-FF6600?style=for-the-badge&logo=espressif&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/ESP8266-0066FF?style=for-the-badge&logo=espressif&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/STM8-004080?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/PIC-003A70?style=for-the-badge&logo=microchip&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/8051-00599C?style=for-the-badge&logo=none&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Raspberry%20Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"></code>
     <code><img height="30" src="https://img.shields.io/badge/KiCad-314477?style=for-the-badge&logo=kicad&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Proteus-0075A8?style=for-the-badge&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/EasyEDA-00A4E6?style=for-the-badge&logo=easyeda&logoColor=white"></code>
     <code><img height="30" src="https://img.shields.io/badge/FreeRTOS-0096D6?style=for-the-badge&logo=freertos&logoColor=white"></code>
     <code><img height="30" src="https://img.shields.io/badge/Linux%20Embarcado-333333?style=for-the-badge&logo=linux&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 </p>
 
 ---
