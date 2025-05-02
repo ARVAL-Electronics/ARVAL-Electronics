@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- Capa superior com animação -->
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=10B981&reversal=false&fontColor=FFFFFF&animation=fadeIn&fontSize=30&fontAlignY=40&fontAlign=50"/>
+</p>
 
-<!--
-**ARVAL-Electronics/ARVAL-Electronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Título com saudação -->
+<h1 align="center">
+    <img width="50" src="https://simpleicons.vercel.app/github/10B981" />
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&color=10B981&width=300&height=40&duration=5000&lines=Bem-vindo+à+ARVAL%2C+soluções+eletrônicas+personalizadas" />
+</h1>
 
-Here are some ideas to get you started:
+<!-- Apresentação -->
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Olá, somos a **ARVAL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Somos uma empresa especializada em **sistemas embarcados, automação e desenvolvimento de hardware e firmware** sob medida. Nossa missão é transformar ideias em realidade com soluções tecnológicas modernas, eficientes e confiáveis.
+
+---
+
+## 💼 Nossos Serviços
+
+- Desenvolvimento de **circuitos eletrônicos personalizados**
+- Criação de **projetos de PCB (placa de circuito impresso)**
+- Programação de **firmware para microcontroladores** (ESP32, STM32, PIC, etc.)
+- Desenvolvimento de **dashboards de monitoramento e controle**
+- Soluções para **automação industrial, comercial e residencial**
+- Projetos especiais para **makers e hobbyistas**
+
+---
+
+## 🧠 Tecnologias que dominamos
+
+<p align="left">
+    <code><img height="30" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/PIC-003A70?style=for-the-badge&logo=microchip&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Nordic-003B5C?style=for-the-badge&logo=nordicsemiconductor&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/ESP--IDF-FF6600?style=for-the-badge&logo=espressif&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/KiCad-314477?style=for-the-badge&logo=kicad&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/FreeRTOS-0096D6?style=for-the-badge&logo=freertos&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Linux%20Embarcado-333333?style=for-the-badge&logo=linux&logoColor=white"></code>
+</p>
+
+---
+
+## 🌐 Nosso site
+
+Confira nosso site com todos os detalhes de serviços, projetos e formas de contato:
+
+🔗 [**arval.github.io**](https://arval.github.io)
+
+---
+
+## 📫 Contato
+
+Entre em contato conosco para conversar sobre seu projeto:
+
+<p align="center">
+    <a href="mailto:arval.electronics@gmail.com">
+        <img height="30" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/adenilton-ribeiro-92551b156">
+        <img height="30" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/adenilton_ribeiro4">
+        <img height="30" src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+    <a href="https://wa.me/55SEUNUMERO">
+        <img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+</p>
+
+---
+
+<!-- Rodapé verde -->
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=10B981&text=Obrigado%20por%20visitar%20a%20ARVAL!&reversal=false&fontColor=FFFFFF&animation=fadeIn&fontSize=30&fontAlignY=15&fontAlign=50&section=footer"/>
+</p>
