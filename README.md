@@ -56,7 +56,7 @@ Somos uma empresa especializada em **sistemas embarcados, automação e desenvol
 
 Confira nosso site com todos os detalhes de serviços, projetos e formas de contato:
 
-🔗 [**arval.github.io**](https://arval.github.io)
+🔗 [**ARVAL**](https://arval-electronics.github.io/ARVAL_page/)
 
 ---
 
@@ -68,13 +68,10 @@ Entre em contato conosco para conversar sobre seu projeto:
     <a href="mailto:arval.electronics@gmail.com">
         <img height="30" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/adenilton-ribeiro-92551b156">
-        <img height="30" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/adenilton_ribeiro4">
+    <a href="https://www.instagram.com/arval.electronics/">
         <img height="30" src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
-    <a href="https://wa.me/55SEUNUMERO">
+    <a href="https://wa.me/5515997112439">
         <img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
 </p>
